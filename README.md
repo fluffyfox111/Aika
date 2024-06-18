@@ -1,7 +1,7 @@
 # Aika
-ceci est un simple bot de musique.
+ceci est un simple bot de musique avec lavalink.
 Utilisez /play pour commencer à jouer les chansons.
-# Supports
+# Supporte
 - YouTube
 - SoundCloud
 - Spotify
@@ -22,4 +22,5 @@ maintenant créer un moniteur sur [betterstaks](https://uptime.betterstack.com/)
 url du moniter se trouve dans le dashboard de render
 créer le moniteur
 
-#comment modifier le statut?
+# comment modifier le statut?
+event/ready.js ligne 48,49
