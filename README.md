@@ -1,13 +1,25 @@
-# PrimeMusic-Lavalink
-LAVALINK BOT MADE BY SHIVA.
-
-Fork the Repositry and add your bot token. Must turn on intents and run the code.
-Use /play to start playing the songs.
-
+# Aika
+ceci est un simple bot de musique.
+Utilisez /play pour commencer à jouer les chansons.
 # Supports
 - YouTube
 - SoundCloud
 - Spotify
 
-Links / Text / Playlists
- 
+Liens / Texte / Playlists
+
+# comment installer?
+créer un bot
+activer tous les intents
+instal link: aplications commands,bot,read message history,read message/view channels,speak,embed links
+inviter le bot
+créer un répertoire github et forkez mon repertoire
+créer un nouveau web service sur [render](https://render.com/)  deployez votre nouveau repertoire 
+instance type "FREE" (vous pouvez metre q'un seul bot par compte render)
+environement variable: TOKEN  value:[token de bot]
+créez votre service web
+maintenant créer un moniteur sur [betterstaks](https://uptime.betterstack.com/) 
+url du moniter se trouve dans le dashboard de render
+créer le moniteur
+
+#comment modifier le statut?
