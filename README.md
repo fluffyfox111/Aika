@@ -24,4 +24,4 @@ Liens / Texte / Playlists
 -essayez le bot
 
 # comment modifier le statut?
-event/ready.js ligne 48,49
+event/ready.js ligne 65,66
