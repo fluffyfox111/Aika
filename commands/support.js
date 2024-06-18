@@ -37,22 +37,22 @@ const { MessageEmbed } = require('discord.js');
 
 module.exports = {
   name: "support",
-  description: "Get support server link",
+  description: "rejoin mon serveur",
   permissions: "0x0000000000000800",
   options: [],
   run: async (client, interaction) => {
     try {
       const supportServerLink = "https://discord.gg/aEHqZFTYGw";
       const githubLink = "bientot";
-      const replitLink = "bientot";
+      const BOTLink = "bientot";
       const youtubeLink = "https://www.youtube.com/@ny-11195";
-      
-      const embed = new MessageEmbed()
-        .setColor('#b300ff')
-        .setAuthor({
-          name: 'Support Server',
-          url: 'https://discord.gg/aEHqZFTYGw'
-        })
+        const embed = new EmbedBuilder()
+            .setColor('#b300ff')
+            .setAuthor({
+              name: 'Serveur',
+              iconURL: 'https://media.discordapp.net/attachments/1240364252313817188/1240364328876507138/v_tuberidle.gif?ex=6672750c&is=6671238c&hm=6c7b2346086b78bc40244401259d7049ede32187de304d4132830b39f650f220&=', 
+              url: 'https://discord.gg/aEHqZFTYGw'
+          })
         .setDescription(`➡️ **rejoignez mon serveur discord:**\n- Discord - ${supportServerLink}\n\n➡️ **Abone toi sur ma chaine youtube:**\n- YouTube - ${youtubeLink}`)
         .setTimestamp();
 
