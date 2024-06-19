@@ -5,9 +5,9 @@ const { queueNames } = require("./commands/play");
 function initializePlayer(client) {
     const nodes = [
    {
-    Host : "lavalink.api.timelessnesses.me",
-    Port : 80,
-    Password : "youshallnotpass",
+    Host : "lavalink.lexnet.cc",
+    Port : 2333,
+    Password : "lexn3tl@val!nk",
     Secure : false
   },
     ];
