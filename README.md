@@ -25,3 +25,6 @@ Liens / Texte / Playlists
 note:deploy lastest commit apres modifications
 # comment modifier le statut?
 event/ready.js ligne 65,66
+# problèmes
+je recommande d'utiliser le serveur Lavalink suivant pour lire de la musique. Veuillez noter que ce serveur Lavalink peut parfois être en ligne ou hors ligne, vous devrez donc peut-être trouver une alternative sur le site Web ci-dessous :
+https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/
