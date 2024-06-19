@@ -22,6 +22,6 @@ Liens / Texte / Playlists
 -url du moniter se trouve dans le dashboard de render
 -créer le moniteur
 -essayez le bot
-
+note:deploy lastest commit apres modifications
 # comment modifier le statut?
 event/ready.js ligne 65,66
