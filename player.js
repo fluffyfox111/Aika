@@ -4,11 +4,11 @@ const { queueNames } = require("./commands/play");
 
 function initializePlayer(client) {
     const nodes = [
-   {
-    Host : "37.114.42.191",
-    Port : 6767,
-    Password : "danteisnttaken",
-    Secure : false
+  {
+    host : "37.114.42.191",
+    port : 6767,
+    password : "danteisnttaken",
+    secure : false
   },
     ];
 
