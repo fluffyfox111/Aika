@@ -5,9 +5,9 @@ const { queueNames } = require("./commands/play");
 function initializePlayer(client) {
     const nodes = [
   {
-    host : "lava-v3.ajieblogs.eu.org",
+    host : "lavalink.api.timelessnesses.me",
     port : 80,
-    password : "https://dsc.gg/ajidevserver",
+    password : "youshallnotpass",
     secure : false
   },
     ];
